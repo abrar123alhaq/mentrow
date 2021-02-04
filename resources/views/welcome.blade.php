@@ -3,7 +3,6 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="author" content="Ashekur Rahman">
     <meta name="description" content="">
     <meta name="keywords" content="HTML,CSS,XML,JavaScript">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -49,16 +48,12 @@
             </div>
             <div class="collapse navbar-collapse" id="mainmenu">
                 <div class="navbar-header navbar-right">
-                    <a href="#" class="navbar-bttn">Try for free</a>
+                    <a href="#contact-page" class="navbar-bttn">Try for free</a>
                 </div>
                 <ul class="nav navbar-nav navbar-left">
                     <li class="active"><a href="#home-page">Home</a></li>
-                    <li><a href="#about-page">About</a></li>
-                    <li><a href="#feature-page">Features</a></li>
-                    <li><a href="#gallery-page">Gallery</a></li>
-                    <li><a href="#price-page">Pricing</a></li>
-                    <li><a href="#team-page">Team</a></li>
-                    <li><a href="#blog-page">Blog</a></li>
+                    <li><a href="#about-page">About</a></li>           
+                    <li><a href="#home-features">Features</a></li>
                     <li><a href="#contact-page">Contact</a></li>
                 </ul>
 
@@ -71,10 +66,9 @@
         <div class="vcenter">
             <div class="container">
                 <div class="row">
-                    <div class="col-xs-12 col-sm-9 col-md-7">
-                        <p class="text-error wow fadeInUp" data-wow-delay="0.2s">1 Editors' Choice Of 2018</p>
-                        <h1 class="headline wow fadeInUp" data-wow-delay="0.4s">Now Chating is Simple <br> and More Fun With Lunatic.</h1>
-                        <p class="wow fadeInUp" data-wow-delay="0.6s">Phosfluorescently re-engineer open-source manufactured products vis-a-vis <br> an expanded array of potentialities.</p>
+                    <div class="col-xs-12 col-sm-9 col-md-7">                        
+                        <h1 class="headline wow fadeInUp" data-wow-delay="0.4s">Now everyone can learn!</h1>
+                        <p class="wow fadeInUp" data-wow-delay="0.6s">Learning becomes easy and accessible with Mentrow. <br> Get the best quality education from experienced and leading teachers of the valley with just a click.</p>
                         <div class="space-30 hidden-xs"></div>
                         <div class="space-30"></div>
                         <a href="#" class="bttn-icon wow fadeIn" data-wow-delay="0.8s">
@@ -107,18 +101,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 text-center">
-                    <h3 class="page-title">Why Mentrow???</h3>
+                    <h3 class="page-title">Why Mentrow</h3>
                     <div class="space-60"></div>
                 </div>
             </div>
             <div class="row ms-items">
-                <div class="col-xs-12 col-sm-6 ms-item">
-                    <div class="single-faq wow fadeInUp" data-wow-delay="0.2s">
-                        <h5 class="title">Kashmir’s first e-learning app that provides 24*7 booking of online and offline classes</h5>
-                        <p>Let your child pursue his interest by learning from valley’s leading, experienced and dedicated teachers. </p>
-                        <p>Book a tutor or your choice based on your preferred locality and subject.</p>
-                    </div>
-                </div>
+               
                 <div class="col-xs-12 col-sm-6 ms-item">
                     <div class="single-faq wow fadeInUp" data-wow-delay="0.4s">
                         <h5 class="title">Get counselling sessions from experts</h5>
@@ -141,12 +129,20 @@
                     </div>
                 </div>
 
+                <div class="col-xs-12 col-sm-12 ms-item">
+                    <div class="single-faq wow fadeInUp" data-wow-delay="0.2s">
+                        <h5 class="title">Kashmir’s first e-learning app that provides 24*7 booking of online and offline classes</h5>
+                        <p>Let your child pursue his interest by learning from valley’s leading, experienced and dedicated teachers. </p>
+                        <p>Book a tutor or your choice based on your preferred locality and subject.</p>
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>
     <!-- Service-Area / -->
     <!-- About-Area -->
-    <section class="social-area section-pd-top-2">
+    <section class="social-area section-pd-top-2" id="home-features">
         <div class="container">
             <div class="row">
                <div class="hidden-xs col-sm-6 col-lg-6">
@@ -160,20 +156,7 @@
                     <p class="wow fadeInUp" data-wow-delay="0.7s">At Mentrow, for the economic amelioration of the society, we provide job opportunities for talented, skilled and unemployed youth of the valley.</p>
                     <p class="wow fadeInUp" data-wow-delay="0.7s">If you are passionate about teaching and dedicated to benefitting others through your knowledge, grab this opportunity and become a Mentrow teacher.</p>
                     <div class="space-30"></div>
-                    <ul class="counter-boxes">
-                        <li class=" wow fadeIn" data-wow-delay="0.9s">
-                            <div class="counter">
-                                <span class="count">2.5</span> B
-                            </div>
-                            <span class="title">User</span>
-                        </li>
-                        <li class=" wow fadeIn" data-wow-delay="1.1s">
-                            <div class="counter">
-                                <span class="count">2.6</span> B
-                            </div>
-                            <span class="title">Download</span>
-                        </li>
-                    </ul>
+                    
                 </div>
             </div>
         </div>
@@ -189,21 +172,7 @@
                     </div>
                     <h3 class="page-title wow fadeInUp" data-wow-delay="0.5s">Moral and Islamic learning</h3>
                     <p class=" wow fadeInUp" data-wow-delay="0.7s">Highly qualified and experienced teachers are also available to your child with Islamic, Quranic and moral learning.</p>
-                    <div class="space-30"></div>
-                    <ul class="counter-boxes">
-                        <li class=" wow fadeInUp" data-wow-delay="0.9s">
-                            <div class="counter">
-                                <span class="count">250</span> K
-                            </div>
-                            <span class="title">Reviews</span>
-                        </li>
-                        <li class=" wow fadeInUp" data-wow-delay="1.1s">
-                            <div class="counter">
-                                <span class="count">2.6</span> B
-                            </div>
-                            <span class="title">Download</span>
-                        </li>
-                    </ul>
+                    <div class="space-30"></div>                   
                 </div>
                 <div class="hidden-xs col-sm-6">
                     <img src="images/network-bg.png" alt="">
@@ -226,20 +195,7 @@
                     <p class="wow fadeInUp" data-wow-delay="0.7s">At Mentrow we have dedicated lessons for revision, assessment and feedback. To analyze the student’s progress and to ensure continuous learning, mock tests and exams will be conducted.</p>
                     
                     <div class="space-30"></div>
-                    <ul class="counter-boxes">
-                        <li class=" wow fadeIn" data-wow-delay="0.9s">
-                            <div class="counter">
-                                <span class="count">2.5</span> B
-                            </div>
-                            <span class="title">User</span>
-                        </li>
-                        <li class=" wow fadeIn" data-wow-delay="1.1s">
-                            <div class="counter">
-                                <span class="count">2.6</span> B
-                            </div>
-                            <span class="title">Download</span>
-                        </li>
-                    </ul>
+                   
                 </div>
             </div>
         </div>
@@ -282,273 +238,38 @@
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-6 ms-item">
-                    <div class="single-faq wow fadeInUp" data-wow-delay="0.4s">
-                        <h5 class="title">Monitoring of the classes</h5>
-                        <p>We value your time and money. To provide your child with the best quality education our panel of experts will be monitoring the classes closely.</p>
+                    <div class="single-faq wow fadeInUp" data-wow-delay="1s">
+                        <h5 class="title">Area wise/concept wise teachers</h5>
+                        <p>Teachers shall be available area wise for offline classes and for individual concepts as per the expertise in a specific realm.</p>
                     </div>
-                </div>
+                </div>  
+
                 <div class="col-xs-12 col-sm-6 ms-item">
                     <div class="single-faq wow fadeInUp" data-wow-delay="0.6s">
                         <h5 class="title">Refund the money</h5>
                         <p>If the student is not satisfied with the class or the lecture delivered by the teacher, you have the right to claim your money back. To validate your claim, the recorded session will be checked and if the teacher is in the wrong, your money will be refunded.</p>
+                        
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-6 ms-item">
+                    <div class="single-faq wow fadeInUp" data-wow-delay="0.4s">
+                        <h5 class="title">Monitoring of the classes</h5>
+                        <p>We value your time and money. To provide your child with the best quality education our panel of experts will be monitoring the classes closely.</p>
+                         &nbsp;
+                    </div>
+                </div>
+               
+                <div class="col-xs-12 col-sm-12 ms-item">
                     <div class="single-faq wow fadeInUp" data-wow-delay="0.8s">
                         <h5 class="title">Acquire a tutor according to your preferred choice</h5>
                         <p>It is a simple yet effective idea to develop a personal teacher or on-demand tutor app, enabling students or their parents to hire on-demand tutors for all or a specific subject as per the requirement of the student for the required period. The student can opt to learn either in a batch or on a one-on-one class.  They have a choice to select the best tutor from the list of tutors and chat with them instantly.</p>
                     </div>
                 </div>
-                <div class="col-xs-12 col-sm-6 ms-item">
-                    <div class="single-faq wow fadeInUp" data-wow-delay="1s">
-                        <h5 class="title">Area wise/concept wise teachers</h5>
-                        <p>Teachers shall be available area wise for offline classes and for individual concepts as per the expertise in a specific realm.</p>
-                    </div>
-                </div>               
+                             
             </div>
         </div>
     </section>
-    <!-- Feature-Area / -->
-    <!-- Gallery-Area -->
-    <section class="gallery-area section-padding-top" id="gallery-page">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 text-center">
-                    <h3 class="page-title">Lunatic Screenshot</h3>
-                    <div class="space-30"></div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xs-12">
-                    <div class="gallery full-width side-arrow">
-                        <div class="item">
-                            <img src="images/apps-screen-1.jpg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/apps-screen-2.jpg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/apps-screen-3.jpg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/apps-screen-4.jpg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/apps-screen-2.jpg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/apps-screen-1.jpg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/apps-screen-3.jpg" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Gallery-Area / -->
-    <!-- Price-Area -->
-    <section class="price-area section-pd-top-2" id="price-page">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 text-center">
-                    <h3 class="page-title">Lunatic Pricing</h3>
-                    <div class="space-60"></div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xs-12 col-sm-4">
-                    <div class="price-box wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="price-icon">
-                            <img src="images/price-icon-1.png" alt="">
-                        </div>
-                        <h4 class="title">Personal</h4>
-                        <ul>
-                            <li>24 Hours Support</li>
-                            <li>All Over the World</li>
-                            <li>Customer Managment</li>
-                            <li>Unlimited</li>
-                        </ul>
-                        <h3 class="price-rate">$9/M</h3>
-                        <a href="# " class="bttn-default">Get Started</a>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-4">
-                    <div class="price-box wow fadeInUp" data-wow-delay="0.6s">
-                        <div class="price-icon">
-                            <img src="images/price-icon-2.png" alt="">
-                        </div>
-                        <h4 class="title">Small Team</h4>
-                        <ul>
-                            <li>24 Hours Support</li>
-                            <li>All Over the World</li>
-                            <li>Customer Managment</li>
-                            <li>Custom Profile Screen</li>
-                            <li>Business &amp; Financ Analysing</li>
-                        </ul>
-                        <h3 class="price-rate">$29/M</h3>
-                        <a href="# " class="bttn-default">Get Started</a>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-4">
-                    <div class="price-box wow fadeInUp" data-wow-delay="0.9s">
-                        <div class="price-icon">
-                            <img src="images/price-3.png" alt="">
-                        </div>
-                        <h4 class="title">Enterprice</h4>
-                        <ul>
-                            <li>24 Hours Support</li>
-                            <li>All Over the World</li>
-                            <li>Customer Managment</li>
-                            <li>Business &amp; Financ Analysing</li>
-                            <li>Custom Profile Screen</li>
-                            <li>Unlimited Tires</li>
-                        </ul>
-                        <h3 class="price-rate">$49/M</h3>
-                        <a href="# " class="bttn-default">Get Started</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Price-Area / -->
-    <!-- Team-Area -->
-    <section id="team-page" class="section-pd-top-2">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 text-center">
-                    <h3 class="page-title">Meet with founder</h3>
-                    <div class="space-60"></div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xs-12 col-sm-3">
-                    <div class="single-team wow fadeInUp" data-wow-delay="0.3s">
-                        <figure class="team-photo">
-                            <img src="images/team-1.png" alt="">
-                        </figure>
-                        <div class="team-content">
-                            <h4 class="name">Kerri Reece</h4>
-                            <div class="position">Founder, Lunatic</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-3">
-                    <div class="single-team wow fadeInUp" data-wow-delay="0.5s">
-                        <figure class="team-photo">
-                            <img src="images/team-3.png" alt="">
-                        </figure>
-                        <div class="team-content">
-                            <h4 class="name">Kerri Reece</h4>
-                            <div class="position">Founder, Lunatic</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-3">
-                    <div class="single-team wow fadeInUp" data-wow-delay="0.7s">
-                        <figure class="team-photo">
-                            <img src="images/team-2.png" alt="">
-                        </figure>
-                        <div class="team-content">
-                            <h4 class="name">Kerri Reece</h4>
-                            <div class="position">Founder, Lunatic</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-3">
-                    <div class="single-team wow fadeInUp" data-wow-delay="0.9s">
-                        <figure class="team-photo">
-                            <img src="images/team-4.png" alt="">
-                        </figure>
-                        <div class="team-content">
-                            <h4 class="name">Kerri Reece</h4>
-                            <div class="position">Founder, Lunatic</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Team-Area / -->
-    <!-- Testimonial-Area -->
-    <div class="section-pd-top-2" id="testimonial">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12">
-                    <div class="testimonials">
-                        <div class="single-testimonial">
-                            <p>Distinctively myocardinate adaptive action items without high-quality initiatives. Holisticly envisioneer web-enabled methodologies with integrated relationships. Energistically engage covalent action items whereas customer directed technology. Interactively customize stand-alone services via reliable results.a</p>
-                            <span class="client-name">- Ronald Bozek, Intercom</span>
-                        </div>
-                        <div class="single-testimonial">
-                            <p>Distinctively myocardinate adaptive action items without high-quality initiatives. Holisticly envisioneer web-enabled methodologies with integrated relationships. Energistically engage covalent action items whereas customer directed technology. Interactively customize stand-alone services via reliable results.a</p>
-                            <span class="client-name">- Ronald Bozek, Intercom</span>
-                        </div>
-                        <div class="single-testimonial">
-                            <p>Distinctively myocardinate adaptive action items without high-quality initiatives. Holisticly envisioneer web-enabled methodologies with integrated relationships. Energistically engage covalent action items whereas customer directed technology. Interactively customize stand-alone services via reliable results.a</p>
-                            <span class="client-name">- Ronald Bozek, Intercom</span>
-                        </div>
-                        <div class="single-testimonial">
-                            <p>Distinctively myocardinate adaptive action items without high-quality initiatives. Holisticly envisioneer web-enabled methodologies with integrated relationships. Energistically engage covalent action items whereas customer directed technology. Interactively customize stand-alone services via reliable results.a</p>
-                            <span class="client-name">- Ronald Bozek, Intercom</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Testimonial-Area / -->
-    <!-- FAQ-Area -->
-    <section id="faq" class="section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 text-center">
-                    <h3 class="page-title">Questions and answer</h3>
-                    <div class="space-60"></div>
-                </div>
-            </div>
-            <div class="row ms-items">
-                <div class="col-xs-12 col-sm-6 ms-item">
-                    <div class="single-faq wow fadeInUp" data-wow-delay="0.2s">
-                        <h5 class="title">What is your favorite fruit?</h5>
-                        <p>The recording starts with the patter of a summer squall. Later, a drifting tone like that of a not-quite-tuned-in radio station rises and for a while drowns out the patter. </p>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 ms-item">
-                    <div class="single-faq wow fadeInUp" data-wow-delay="0.4s">
-                        <h5 class="title">Do you have nice handwriting?</h5>
-                        <p>The recording starts with the patter of a summer squall. Later, a drifting tone like that of a not-quite-tuned-in radio station rises and for a while drowns out the patter. </p>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 ms-item">
-                    <div class="single-faq wow fadeInUp" data-wow-delay="0.6s">
-                        <h5 class="title">Have you ever fainted?</h5>
-                        <p>The recording starts with the patter of a summer squall. Later, a drifting tone like that of a not-quite-tuned-in radio station rises and for a while drowns out the patter. </p>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 ms-item">
-                    <div class="single-faq wow fadeInUp" data-wow-delay="0.8s">
-                        <h5 class="title">Have you ever fainted?</h5>
-                        <p>The recording starts with the patter of a summer squall. Later, a drifting tone like that of a not-quite-tuned-in radio station rises and for a while drowns out the patter. </p>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 ms-item">
-                    <div class="single-faq wow fadeInUp" data-wow-delay="1s">
-                        <h5 class="title">Which do you like better, book or eBook?</h5>
-                        <p>The recording starts with the patter of a summer squall. Later, a drifting tone like that of a not-quite-tuned-in radio station rises and for a while drowns out the patter. </p>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 ms-item">
-                    <div class="single-faq wow fadeInUp" data-wow-delay="1.2s">
-                        <h5 class="title">What is your favorite comedy?</h5>
-                        <p>The recording starts with the patter of a summer squall. Later, a drifting tone like that of a not-quite-tuned-in radio station. </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- FAQ-Area / -->
+        
     <!-- Download-Area -->
     <section class="download-area section-padding">
         <div class="container">
@@ -581,77 +302,9 @@
         </div>
     </section>
     <!-- Download-Area / -->
-    <!-- Maps-Area -->
-    <section class="maps-area section-padding-top">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 text-center">
-                    <h3 class="page-title">People Loves us WorldWide</h3>
-                    <div class="space-60"></div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xs-12">
-                    <div id="map"></div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Maps-Area / -->
+   
     <!-- Blog-Area -->
-    <section class="blog-area section-padding-top" id="blog-page">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 text-center">
-                    <h3 class="page-title">Lunatic Blog</h3>
-                    <div class="space-60"></div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xs-12 col-sm-4">
-                    <article class="blog-single wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="blog-photo">
-                            <img src="images/blog-1.jpg" alt="">
-                        </div>
-                        <div class="blog-content">
-                            <h5 class="title"><a href="#">Blazeon Scrambles to Police Content Amid Rapid Growth</a></h5>
-                            <ul class="blog-meta">
-                                <li><i class="zmdi zmdi-time"></i> January 12th, 2018</li>
-                            </ul>
-                        </div>
-                    </article>
-                </div>
-                <div class="col-xs-12 col-sm-4">
-                    <article class="blog-single wow fadeInUp" data-wow-delay="0.6s">
-                        <div class="blog-photo">
-                            <img src="images/blog-2.jpg" alt="">
-                        </div>
-                        <div class="blog-content">
-                            <h5 class="title"><a href="#">Patturb and Waymo Duel at Key
-Hearing Over Driverless Car.</a></h5>
-                            <ul class="blog-meta">
-                                <li><i class="zmdi zmdi-time"></i> January 13th, 2018</li>
-                            </ul>
-                        </div>
-                    </article>
-                </div>
-                <div class="col-xs-12 col-sm-4">
-                    <article class="blog-single wow fadeInUp" data-wow-delay="0.9s">
-                        <div class="blog-photo">
-                            <img src="images/blog-3.jpg" alt="">
-                        </div>
-                        <div class="blog-content">
-                            <h5 class="title"><a href="#">Updating Stored Credit Card
-Information for the App Store</a></h5>
-                            <ul class="blog-meta">
-                                <li><i class="zmdi zmdi-time"></i> January 15th, 2018</li>
-                            </ul>
-                        </div>
-                    </article>
-                </div>
-            </div>
-        </div>
-    </section>
+    
     <!-- Blog-Area / -->
     <!-- Contact-Form -->
     <section id="contact-page" class="section-padding">

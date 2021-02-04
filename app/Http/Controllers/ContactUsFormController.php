@@ -26,12 +26,15 @@ class ContactUsFormController extends Controller {
          ]);
 
          $data = $request->all();
+        //dd($data); 
         //  Store data in database
         Contact::create($data);
-
+        $data->toArray();
         $contact_email_to =env('CONTACT_EMAIL_TO');
-
-        Mail::to($contact_email_to)->send(new ContactMentrow($request)); 
+        // dd($request);
+         //dd($request->name);
+        // dd($request->email);
+        Mail::to($contact_email_to)->send(new ContactMentrow($data)); 
         
     }
 
