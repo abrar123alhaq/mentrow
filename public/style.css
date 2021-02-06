@@ -57,7 +57,7 @@ a:focus,
 a:hover {
     text-decoration: none;
     outline: none;
-    color: #6858db;
+    color: #255c0d;
 }
 
 img {
@@ -145,7 +145,7 @@ input:-webkit-autofill:focus {
 .bttn-icon:focus,
 .bttn-icon:hover {
     color: #ffffff;
-    background-color: #6858db;
+    background-color: #255c0d;
     -webkit-box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.4);
     box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.4);
 }
@@ -281,13 +281,13 @@ input:-webkit-autofill:focus {
 
 .mainmenu-area ul.nav.navbar-nav > li.active > a,
 .mainmenu-area ul.nav.navbar-nav > li > a:hover {
-    color: #6858db;
+    color: #255c0d;
 }
 
 .navbar-bttn {
     padding: 15px 40px;
     background-color: #ffffff;
-    color: #6858db;
+    color: #255c0d;
     display: inline-block;
     border-radius: 100px;
     -webkit-box-shadow: 0 0 20px 0 rgba(255, 255, 255, 0.1);
@@ -297,12 +297,12 @@ input:-webkit-autofill:focus {
 .navbar-bttn.active,
 .navbar-bttn:hover {
     color: #ffffff;
-    background-color: #6858db;
+    background-color: #255c0d;
 }
 
 .navbar-bttn.active:hover {
     background-color: #ffffff;
-    color: #6858db;
+    color: #255c0d;
 }
 
 /*-- 5. Header-Area --*/
@@ -609,16 +609,16 @@ input:-webkit-autofill:focus {
 }
 
 .price-box .price-rate {
-    color: #6858db;
+    color: #255c0d;
     font-size: 26px;
     font-weight: 700;
     margin-bottom: 30px;
 }
 
 .bttn-default {
-    border: 1px solid #6858db;
+    border: 1px solid #255c0d;
     border-radius: 100px;
-    color: #6858db;
+    color: #255c0d;
     padding: 10px 30px;
     display: inline-block;
     font-weight: 700;
@@ -629,7 +629,7 @@ input:-webkit-autofill:focus {
 }
 
 .bttn-default:hover {
-    background-color: #6858db;
+    background-color: #255c0d;
     color: #ffffff;
 }
 
@@ -708,7 +708,7 @@ textarea.form_control {
 }
 
 .gallery .owl-controls .owl-dots .owl-dot.active span {
-    background-color: #6858db;
+    background-color: #255c0d;
 }
 
 .gallery .owl-controls .owl-nav {
@@ -750,21 +750,21 @@ textarea.form_control {
     width: 100px;
     height: 100px;
     border-radius: 100%;
-    background-color: #6858db;
+    background-color: #255c0d;
     color: #ffffff;
     line-height: 100px;
     font-size: 50px;
-    -webkit-box-shadow: 0 0 0 0 #6858db;
-    box-shadow: 0 0 0 0 #6858db;
+    -webkit-box-shadow: 0 0 0 0 #255c0d;
+    box-shadow: 0 0 0 0 #255c0d;
     padding-left: 6px;
 }
 
 .play-bttn:focus,
 .play-bttn:hover {
-    color: #6858db;
+    color: #255c0d;
     background-color: #ffffff;
-    -webkit-box-shadow: 0 0 50px -10px #6858db;
-    box-shadow: 0 0 50px -10px #6858db;
+    -webkit-box-shadow: 0 0 50px -10px #255c0d;
+    box-shadow: 0 0 50px -10px #255c0d;
 }
 
 .video-box .play-bttn {
@@ -834,7 +834,7 @@ textarea.form_control {
     content: "\f1b2";
     font-family: 'Material-Design-Iconic-Font';
     font-size: 40px;
-    color: #6858db;
+    color: #255c0d;
     position: absolute;
     left: 30px;
     top: 40%;
@@ -847,7 +847,7 @@ textarea.form_control {
     display: block;
     width: 100%;
     margin-top: 20px;
-    color: #6858db;
+    color: #255c0d;
 }
 
 .features .owl-controls .owl-nav > div,
@@ -885,7 +885,7 @@ textarea.form_control {
     width: 14px;
     height: 14px;
     border-radius: 100%;
-    border: 1px solid #6858db;
+    border: 1px solid #255c0d;
     margin: 4px 8px;
     background-color: #ffffff;
     -webkit-transition: 0.3s;
@@ -895,7 +895,7 @@ textarea.form_control {
 
 .features .owl-controls .owl-dots .owl-dot.active > span,
 .testimonials .owl-controls .owl-dots .owl-dot.active > span {
-    background-color: #6858db;
+    background-color: #255c0d;
 }
 
 .features .owl-controls .owl-dots .owl-dot {
@@ -969,7 +969,7 @@ textarea.form_control {
 .social-menu li a i {
     width: 40px;
     height: 40px;
-    background-color: #6858db;
+    background-color: #255c0d;
     text-align: center;
     line-height: 40px;
     border-radius: 3px;
@@ -1011,7 +1011,7 @@ textarea.form_control {
 
 .subscribe .control {
     background-color: #ffffff;
-    border: 1px solid #6858db;
+    border: 1px solid #255c0d;
     height: 60px;
     border-radius: 100px;
     -webkit-box-shadow: none;
@@ -1029,7 +1029,7 @@ textarea.form_control {
     width: 80px;
     border-radius: 0 100px 100px 0;
     color: #ffffff;
-    background-color: #6858db;
+    background-color: #255c0d;
 }
 
 /*-- 20. Preloader-Style --*/
@@ -1045,15 +1045,15 @@ textarea.form_control {
 }
 
 .preloade span {
-    background: #6858db;
+    background: #255c0d;
     /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(left, #6858db, #9f96e9);
+    background: -webkit-linear-gradient(left, #255c0d, #9f96e9);
     /* For Safari 5.1 to 6.0 */
     /* For Opera 11.1 to 12.0 */
     /* For Firefox 3.6 to 15 */
-    background: -webkit-gradient(linear, left top, right top, from(#6858db), to(#9f96e9));
-    background: -o-linear-gradient(left, #6858db, #9f96e9);
-    background: linear-gradient(to right, #6858db, #9f96e9);
+    background: -webkit-gradient(linear, left top, right top, from(#255c0d), to(#9f96e9));
+    background: -o-linear-gradient(left, #255c0d, #9f96e9);
+    background: linear-gradient(to right, #255c0d, #9f96e9);
     border-radius: 100%;
     bottom: 0;
     height: 60px;
@@ -1137,7 +1137,7 @@ textarea.form_control {
     height: 50px;
     font-size: 20px;
     text-align: center;
-    background-color: #6858db;
+    background-color: #255c0d;
     color: #ffffff;
     border-radius: 3px;
     line-height: 50px;
@@ -1160,7 +1160,7 @@ textarea.form_control {
 
 .home2 .mainmenu-area ul.nav.navbar-nav > li.ative > a,
 .home2 .mainmenu-area ul.nav.navbar-nav > li > a:hover {
-    color: #6858db;
+    color: #255c0d;
 }
 
 .home2 .mainmenu-area.affix {
