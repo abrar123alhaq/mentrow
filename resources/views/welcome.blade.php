@@ -3,12 +3,12 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="">
-    <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+    <meta name="description" content="Kashmir’s first e-learning app that provides 24*7 booking of online and offline classes">
+    <meta name="keywords" content="tution,online,tutor,learning,home tution">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Title -->
-    <title>Lunatic Apps Landing Page</title>
+    <title>Mentrow - Row to Success</title>
     <!-- Place favicon.ico in the root directory -->
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
     <link rel="shortcut icon" type="image/ico" href="images/favicon.ico" />
@@ -271,8 +271,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-md-8 col-lg-6 pull-right section-padding">
-                    <h3 class="page-title wow fadeInUp" data-wow-delay="0.3s">Download Our free Lunatic App</h3>
-                    <p class=" wow fadeInUp" data-wow-delay="0.5s">Take your journal wherever you go with our apps for iPhone, iPad, and Android phones &amp; tablets.</p>
+                    <h3 class="page-title wow fadeInUp" data-wow-delay="0.3s">Download Our free Mentrow App</h3>
+                    <!-- <p class=" wow fadeInUp" data-wow-delay="0.5s">Take your journal wherever you go with our apps for iPhone, iPad, and Android phones &amp; tablets.</p> -->
                     <div class="space-30"></div>
                     <a href="#" class="bttn-icon red-hover wow fadeIn" data-wow-delay="0.7s">
                         <span class="bttn-content">
@@ -290,7 +290,7 @@
                                 <img src="images/play-store.png" alt="">
                             </span>
                             <small>Get It From </small>
-                            <strong>Appstore</strong>
+                            <strong>PlayStore</strong>
                         </span>
                     </a>
                 </div>
