@@ -101,41 +101,35 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 text-center">
-                    <h3 class="page-title">Why Mentrow</h3>
+                    <h3 class="page-title">Why Mentrow?</h3>
                     <div class="space-60"></div>
                 </div>
             </div>
-            <div class="row ms-items">
+            <div class="row">
                
-                <div class="col-xs-12 col-sm-6 ms-item">
-                    <div class="single-faq wow fadeInUp" data-wow-delay="0.4s">
-                        <h5 class="title">Get counselling sessions from experts</h5>
-                        <p>Get career counselling sessions from experts.</p>
-                        <p>Special sessions are also organized for slow learners wherein tips and guidance will be provided to gear up their learning process.</p>
-                    </div>
-                </div>
-                
-                <!-- <div class="col-xs-12 col-sm-6 ms-item">
-                    <div class="single-faq wow fadeInUp" data-wow-delay="1s">
-                        <h5 class="title">Moral and Islamic learning</h5>
-                        <p>Highly qualified and experienced teachers are also available to your child with Islamic, Quranic and moral learning.</p>
-                    </div>
-                </div> -->
-                <div class="col-xs-12 col-sm-6 ms-item">
-                    <div class="single-faq wow fadeInUp" data-wow-delay="0.8s">
-                        <h5 class="title">Easy and quick access to books and uniform</h5>
-                        <p>Buying or renting books and uniform is now a click away.</p>
-                        <p>Now get books (fresh or used) and uniform delivered to you as per your order and requirement.</p>
-                    </div>
-                </div>
-
-                <div class="col-xs-12 col-sm-12 ms-item">
+            <div class="col-xs-12 col-sm-12 ms-item">
                     <div class="single-faq wow fadeInUp" data-wow-delay="0.2s">
                         <h5 class="title">Kashmir’s first e-learning app that provides 24*7 booking of online and offline classes</h5>
                         <p>Let your child pursue his interest by learning from valley’s leading, experienced and dedicated teachers. </p>
                         <p>Book a tutor or your choice based on your preferred locality and subject.</p>
                     </div>
                 </div>
+
+                <div class="col-xs-12 col-sm-6 ms-item">
+                    <div class="single-faq wow fadeInUp" data-wow-delay="0.4s">
+                        <h5 class="title">Get counselling sessions from experts</h5>
+                        <p>Get career counselling sessions from experts.</p>
+                        <p>Special sessions are also organized for slow learners wherein tips and guidance will be provided to gear up their learning process.</p>
+                    </div>
+                </div>               
+               
+                <div class="col-xs-12 col-sm-6 ms-item">
+                    <div class="single-faq wow fadeInUp" data-wow-delay="0.8s">
+                        <h5 class="title">Easy and quick access to books and uniform</h5>
+                        <p>Buying or renting books and uniform is now a click away.</p>
+                        <p>Now get books (fresh or used) and uniform delivered to you as per your order and requirement.</p>
+                    </div>
+                </div>              
 
             </div>
         </div>
@@ -230,28 +224,35 @@
                     <div class="space-60"></div>
                 </div>
             </div>
-            <div class="row ms-items">
-                <div class="col-xs-12 col-sm-6 ms-item">
+            <div class="row">
+                <div class="col-xs-12 col-lg-12 ms-item">
+                    <div class="single-faq wow fadeInUp" data-wow-delay="0.8s">
+                        <h5 class="title">Acquire a tutor according to your preferred choice</h5>
+                        <p>It is a simple yet effective idea to develop a personal teacher or on-demand tutor app, enabling students or their parents to hire on-demand tutors for all or a specific subject as per the requirement of the student for the required period. The student can opt to learn either in a batch or on a one-on-one class.  They have a choice to select the best tutor from the list of tutors and chat with them instantly.</p>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-lg-6 ms-item">
                     <div class="single-faq wow fadeInUp" data-wow-delay="0.2s">
                         <h5 class="title">Real-time or live tech support</h5>
                         <p>TWe provide 24*7 tech support so that no class gets disturbed and the student gets a smooth and hassle-free experience.</p>
                     </div>
                 </div>
-                <div class="col-xs-12 col-sm-6 ms-item">
+                <div class="col-xs-12 col-lg-6 ms-item">
                     <div class="single-faq wow fadeInUp" data-wow-delay="1s">
                         <h5 class="title">Area wise/concept wise teachers</h5>
                         <p>Teachers shall be available area wise for offline classes and for individual concepts as per the expertise in a specific realm.</p>
                     </div>
                 </div>  
 
-                <div class="col-xs-12 col-sm-6 ms-item">
+                <div class="col-xs-12 col-lg-6 ms-item">
                     <div class="single-faq wow fadeInUp" data-wow-delay="0.6s">
                         <h5 class="title">Refund the money</h5>
                         <p>If the student is not satisfied with the class or the lecture delivered by the teacher, you have the right to claim your money back. To validate your claim, the recorded session will be checked and if the teacher is in the wrong, your money will be refunded.</p>
                         
                     </div>
                 </div>
-                <div class="col-xs-12 col-sm-6 ms-item">
+                <div class="col-xs-12 col-lg-6 ms-item">
                     <div class="single-faq wow fadeInUp" data-wow-delay="0.4s">
                         <h5 class="title">Monitoring of the classes</h5>
                         <p>We value your time and money. To provide your child with the best quality education our panel of experts will be monitoring the classes closely.</p>
@@ -259,12 +260,7 @@
                     </div>
                 </div>
                
-                <div class="col-xs-12 col-sm-12 ms-item">
-                    <div class="single-faq wow fadeInUp" data-wow-delay="0.8s">
-                        <h5 class="title">Acquire a tutor according to your preferred choice</h5>
-                        <p>It is a simple yet effective idea to develop a personal teacher or on-demand tutor app, enabling students or their parents to hire on-demand tutors for all or a specific subject as per the requirement of the student for the required period. The student can opt to learn either in a batch or on a one-on-one class.  They have a choice to select the best tutor from the list of tutors and chat with them instantly.</p>
-                    </div>
-                </div>
+               
                              
             </div>
         </div>
@@ -330,7 +326,7 @@
                         <input type="text" id="subject" name="subject" placeholder="Subject" class="form_control">
                         <textarea class="form_control" id="message" name="message" rows="5" placeholder="Messages" required="required"></textarea>
                         <div class="text-center">
-                            <button class="bttn-default bttn-lg" id="btn_Contact" type="submit">Contact with us</button>
+                            <button class="bttn-default bttn-lg" id="btn_Contact" type="submit">Contact us</button>
                         </div>
                     </form>
                 </div>
@@ -345,28 +341,28 @@
                 <div class="col-xs-12 col-sm-3">
                     <img src="images/logo.png" alt="">
                     <div class="space-20"></div>
-                    <p>Even when carefully kept, paper journals can be read by anyone who happens.</p>
+                    <!-- <p>Even when carefully kept, paper journals can be read by anyone who happens.</p> -->
                     <div class="space-20"></div>
-                    <ul class="social-menu">
+                    <!-- <ul class="social-menu">
                         <li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
                         <li><a href="#"><i class="zmdi zmdi-twitter"></i></a></li>
                         <li><a href="#"><i class="zmdi zmdi-google-plus"></i></a></li>
                         <li><a href="#"><i class="zmdi zmdi-youtube-play"></i></a></li>
-                    </ul>
+                    </ul> -->
                     <div class="space-20"></div>
-                    <p>Copyright Lunatic Inc. 2018</p>
+                    <p>Copyright Mentrow Inc. {{ now()->year }}</p>
                     <div class="space-50"></div>
                 </div>
-                <div class="col-xs-12 col-sm-2">
-                    <h4>About</h4>
+                 <div class="col-xs-12 col-sm-2">
+                    <h4></h4>
                     <div class="space-10"></div>
                     <ul class="list">
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Partners</a></li>
-                        <li><a href="#">Career</a></li>
-                        <li><a href="#">Reviews</a></li>
-                        <li><a href="#">Terms &amp; Conditions</a></li>
-                        <li><a href="#">Help</a></li>
+                        <li><a href="#"></a></li>
+                        <li><a href="#"></a></li>
+                        <li><a href="#"></a></li>
+                        <li><a href="#"></a></li>
+                        <li><a href="#"></a></li>
+                        <li><a href="#"></a></li>
                     </ul>
                     <div class="space-50"></div>
                 </div>
@@ -378,19 +374,19 @@
                             <div class="icon">
                                 <i class="zmdi zmdi-pin zmdi-hc-fw"></i>
                             </div>
-                            <strong>Location</strong> : 1033 Valley Drive , Warminster , PA, USA
+                            <strong>Location</strong> : Canal Avenue,Rawalpora
                         </li>
                         <li>
                             <div class="icon">
                                 <i class="zmdi zmdi-email"></i>
                             </div>
-                            <strong>Mail</strong> : Info@lunatic.co
+                            <strong>Mail</strong> : Info@mentrow.com
                         </li>
                         <li>
                             <div class="icon">
                                 <i class="zmdi zmdi-phone-in-talk"></i>
                             </div>
-                            <strong>Phone</strong> : +5569 187 9852
+                            <strong>Phone</strong> : +91-8899304600
                         </li>
                     </ul>
                     <div class="space-50"></div>
