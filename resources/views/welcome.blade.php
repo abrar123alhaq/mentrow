@@ -235,7 +235,7 @@
                 <div class="col-xs-12 col-lg-6 ms-item">
                     <div class="single-faq wow fadeInUp" data-wow-delay="0.2s">
                         <h5 class="title">Real-time or live tech support</h5>
-                        <p>TWe provide 24*7 tech support so that no class gets disturbed and the student gets a smooth and hassle-free experience.</p>
+                        <p>We provide 24*7 tech support so that no class gets disturbed and the student gets a smooth and hassle-free experience.</p>
                     </div>
                 </div>
                 <div class="col-xs-12 col-lg-6 ms-item">
@@ -255,7 +255,7 @@
                 <div class="col-xs-12 col-lg-6 ms-item">
                     <div class="single-faq wow fadeInUp" data-wow-delay="0.4s">
                         <h5 class="title">Monitoring of the classes</h5>
-                        <p>We value your time and money. To provide your child with the best quality education our panel of experts will be monitoring the classes closely.</p>
+                        <p>We value your time and money. To provide your child with the best quality education, our panel of experts will be monitoring the classes closely.</p>
                          &nbsp;
                     </div>
                 </div>
